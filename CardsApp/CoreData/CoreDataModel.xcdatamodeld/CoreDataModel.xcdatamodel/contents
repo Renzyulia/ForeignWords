@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="21G646" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Words" representedClassName="Words" syncable="YES">
+        <attribute name="context" optional="YES" attributeType="String"/>
+        <attribute name="dateLastShow" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="isShownAsTranslationLastTime" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="shownOriginalWordCount" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="shownTranslationWordCount" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="successfulGuessesCount" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="translation" attributeType="String"/>
+        <attribute name="word" attributeType="String"/>
+    </entity>
+</model>

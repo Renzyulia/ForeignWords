@@ -1,0 +1,2 @@
+# CardsApp
+This is an app for learning foreign words. You can add new words that you want to learn and then do the training. In training, you see cards with the words that you added. You choose from two options: I know this word or I don't. Each word is assigned a certain status depending on the selected answer. And in each training session, words selected using a special algorithm that helps to learn words.  
